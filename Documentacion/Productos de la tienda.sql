@@ -1,0 +1,40 @@
+select * from BDproducto
+
+create table BDproducto(
+nombreProducto varchar(25),
+marcaProducto varchar(25),
+tamañoProducto varchar(25),
+tipoDeProducto varchar(25),
+)
+go
+insert into BDproducto values
+( 'Arroz', 'Valle Verde', '1kg', 'no perecedero'),
+( 'Atun', 'Herdez', '130g', 'perecedero'),
+('Firgoles', 'Valle Verde', '1kg', 'no perecedero'),
+('Aceite', '123', '750ml', 'perecedero'),
+('Sal', 'Elefante', '1k', 'no perecedero'),
+('Azucar', 'Aurrera', '1k', 'no perecedero'),
+('Tequila', 'Jose Cuervo', '750ml', 'no perecedero'),
+('Vodka', 'Grey Goose', '750ml', 'no perecedero'),
+('Brandi', 'Fundador', '750ml', 'no perecedero'),
+('Whisky', 'Talisker', '750ml', 'no perecedero'),
+('Ron', 'Malibu', '750ml', 'no perecedero'),
+('Mezcal', 'Mezcal', '750ml', 'no perecedero'),
+('Naturales', 'Sabritas', '42g', 'perecedero'),
+('Packetaxo', 'Packetaxo', '170g', 'perecedero'),
+('Chips', 'Barcel', '42g', 'perecedero'),
+('Panditas', 'Ricolino', '115g', 'perecedero'),
+('Cremax', 'Gamesa', '171g', 'perecedero'),
+('Emperador', 'Gamesa', '91g', 'perecedero'),
+('Coca Cola', 'Coca Cola', '3l', ''),
+('Pepsi', 'Pepsi', '1 250ml', ''),
+('Naranja', 'Jarrito', '2L', ''),
+('Manzanita Sol', '', '600ml', ''),
+('Red cola', 'Jarritos', '2L', ''),
+('Squirt', '', '600ml', ''),
+('Jamon', 'San Rafael', '100 g', 'perecedero'),
+('Salchicha', 'Fud', '100g', 'perecedero'),
+('Chorizo', '', '250g', 'perecedero'),
+('Queso de puerco', '', 'Queso de puerco', 'perecedero'),
+('Longaniza', '', '250g', 'perecedero'),
+('Tosino', 'Fud', '250g', 'perecedero')

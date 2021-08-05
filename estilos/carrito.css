@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.card{
+	border: solid 1px;
+}
+div.col-12 {
+	margin: 200px;
+}

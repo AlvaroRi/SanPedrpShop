@@ -1,0 +1,74 @@
+[
+  {
+    "precio": 13,
+    "id": 1,
+    "title": "Arroz",
+    "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0706/6309/products/000681523m_1000x.jpg?v=1563811063"
+  },
+  {
+    "precio": 15,
+    "id": 2,
+    "title": "Atun",
+    "thumbnailUrl": "https://www.chedraui.com.mx/medias/7501003105486-00-CH1200Wx1200H?context=bWFzdGVyfHJvb3R8ODcyNzJ8aW1hZ2UvanBlZ3xoYzgvaDY5LzEwOTA0OTU5NDE4Mzk4LmpwZ3xhNGEzMjU2OTY3MDE5NDZlYzFhZWE5NTI4NDJmNWZmN2U5MzJiZjhkNDdjZjk2YWQyZmQxZTYxZTc4MjY2OTIy"
+  },
+  {
+    "precio": 18,
+    "id": 3,
+    "title": "Frigoles",
+    "thumbnailUrl": "https://www.superama.com.mx/Content/images/products/img_large/0750107130149L.jpg"
+  },
+  {
+    "precio": 23,
+    "id": 4,
+    "title": "Aceite",
+    "thumbnailUrl": "https://d1zc67o3u1epb0.cloudfront.net/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/2/_/2.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 5,
+    "title": "Sal",
+    "thumbnailUrl": "https://www.laranitadelapaz.com.mx/images/thumbs/0006578_sal-de-mesa-1-kg-elefante_510.jpeg"
+  },
+  {
+    "precio": 18,
+    "id": 6,
+    "title": "Azucar",
+    "thumbnailUrl": "https://www.elsoldetijuana.com.mx/doble-via/ciencia/ms8ljn-azucar/ALTERNATES/LANDSCAPE_1140/Az%C3%BAcar"
+  },
+  {
+    "precio": 120,
+    "id": 7,
+    "title": "Tequila",
+    "thumbnailUrl": "https://st3.depositphotos.com/1832477/12908/v/600/depositphotos_129080346-stock-illustration-set-of-tequila-bottle-shot.jpg"
+  },
+  {
+    "precio": 90,
+    "id": 8,
+    "title": "Vodka",
+    "thumbnailUrl": "https://bodegasalianza.vteximg.com.br/arquivos/ids/156267-1000-1000/1848-1.jpg?v=635942443475700000"
+  },
+  {
+    "precio": 150,
+    "id": 9,
+    "title": "Brandi",
+    "thumbnailUrl": "https://ss388.liverpool.com.mx/xl/7501750.jpg"
+  },
+  {
+    "precio": 150,
+    "id": 10,
+    "title": "Whisky",
+    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRhiqXG2oFJh1zQdjWsstIluC08_cdYeqDA&usqp=CAU"
+  },
+  {
+    "precio": 150,
+    "id": 11,
+    "title": "Ron",
+    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBVmYtfjQ-2A_eVn7fRtP84zg2rgtxS3Riw&usqp=CAU"
+  },
+  {
+    "precio": 12,
+    "id": 6,
+    "title": "Mezcal",
+    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEkVRjO_681PfPM9t8puIyL7yVpxulG04YA&usqp=CAU"
+  }
+]
